@@ -1,5 +1,5 @@
 Askhatir Khalid
-👋 Hello! I'm Askhatir Khalid, a passionate 25-year-old developer hailing from Morocco. I specialize in crafting robust applications using Java, building dynamic user interfaces with Angular, and exploring the exciting world of blockchain technologies.
+👋 Hello! I'm Askhatir Khalid, a passionate 25-year-old developer hailing from Morocco. I specialize in crafting robust applications using Java, building dynamic user interfaces with Angular, and exploring the exciting world of blockchain technologies. <br>
 
 🔧 Skills
 Programming Languages: Java
