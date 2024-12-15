@@ -6,17 +6,15 @@ Hello! I'm Askhatir Khalid, a passionate 25-year-old blockchain and software dev
 
 Blockchain Development:
 
-Smart Contracts: Solidity, Hardhat
+Smart Contracts: Solidity
 
 Web3 Integration: Web3.js, Ethers.js
-
-Testing and Debugging: Hardhat, Mocha, Chai
 
 Backend Development:
 
 Programming Languages: Java, JavaScript
 
-Frameworks: Node.js, Express.js
+Frameworks: spring boot, Express.js
 
 Frontend Development:
 
